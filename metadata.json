@@ -1,0 +1,5 @@
+{
+  "name": "Daily Fortune & Advice",
+  "description": "A personal daily fortune-telling platform with photo records and lucky advice.",
+  "requestFramePermissions": ["camera"]
+}
